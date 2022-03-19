@@ -8,7 +8,7 @@
 - Computacional logic - Ocaml
 - Human Computer Interaction (HCI)  - Java
 
-⚡ Courses taken (In University)
+⚡ Classes taken (In University)
 
 - Linear Algebra
 - Calculus I
