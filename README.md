@@ -1,6 +1,6 @@
 ### Hey! I´m Guilherme - a student at University of Beira Interior (Covilhã, Portugal) - Studying Computer Science and Engineering
 
-#📓 Classes I'm taking:
+📓 #Classes I'm taking:
 
 - Web Development - HTML, CSS, JS, PHP, XML etc
 - Operating systems - C
