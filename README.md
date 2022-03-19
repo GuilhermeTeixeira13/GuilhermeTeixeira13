@@ -8,7 +8,7 @@
 - Computacional logic - Ocaml
 - Human Computer Interaction (HCI)  - Java
 
-#⚡ **Classes taken (In University):**
+⚡ **Classes taken (In University):**
 
 - Linear Algebra
 - Calculus I
@@ -25,14 +25,14 @@
 - Data Bases
 - Multimedia
 
-#😄 **What languages* I enjoy the most:**
+😄 **What languages* I enjoy the most:**
 
 - Java
 - C
 - SQL
 - HTML / CSS
 
-#🔥 I enjoy playing games, reading books, making friends, and coding!
+🔥 I enjoy playing games, reading books, making friends, and coding!
 
 
 <!--
