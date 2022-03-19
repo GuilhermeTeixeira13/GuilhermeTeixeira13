@@ -25,7 +25,7 @@
 - Data Bases
 - Multimedia
 
-😄 **What languages* I enjoy the most:**
+😄 **What 'languages' I enjoy the most:**
 
 - Java
 - C
