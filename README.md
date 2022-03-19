@@ -25,6 +25,14 @@
 - Data Bases
 - Multimedia
 
+😄 What languages* I enjoy the most
+
+- Java
+- C
+- SQL
+- HTML / CSS
+
+🔥 I enjoy playing games, reading books, making friends, and coding!
 
 
 <!--
