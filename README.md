@@ -34,6 +34,8 @@
 
 🔥 I enjoy playing games, reading books, making friends, and coding!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeTeixeira13)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **GuilhermeTeixeira13/GuilhermeTeixeira13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
