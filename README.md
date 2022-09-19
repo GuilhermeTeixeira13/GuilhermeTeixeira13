@@ -33,7 +33,7 @@
 
 😄 **What 'languages' I enjoy the most:**
 
-- Java
+- Java (JavaFX, SQL)
 
 🔥 I enjoy playing games, reading books, making friends, and coding!
 
