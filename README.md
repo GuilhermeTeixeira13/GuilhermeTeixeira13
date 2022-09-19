@@ -2,37 +2,44 @@
 
 📓 **Classes I'm taking:**
 
-- Web Development - HTML, CSS, JS, PHP, XML etc
-- Operating systems - C
-- Algorithms and Data Structures - C
-- Computacional logic - Ocaml
-- Human Computer Interaction (HCI)  - Java
+- Theory of Computation
+- Artificial Intelligence
+- Android Development
+- Computer Graphics
+- Software Enginnering
+
 
 ⚡ **Classes taken (In University):**
 
 - Linear Algebra
 - Calculus I
-- C Programming
-- Programming Labs
-- Computeer Tecnology
+- C Programming - C
+- Programming Labs - C
+- Computeer Tecnology - Assembly
 - Discrete Math
-- Computer Networks
-- Functional Programming
+- Computer Networks - Cisco Packet Tracer
+- Functional Programming - OCAML
 - Calculus II
 - Physics and Information
 - Probability & Statistics
-- Object Oriented Programming
-- Data Bases
-- Multimedia
+- Object Oriented Programming - Java
+- Data Bases - SQL
+- Multimedia - Python
+- Web Development - HTML/CSS/JS/PHP/XML
+- Operating systems - C
+- Algorithms and Data Structures - C
+- Computacional logic - Ocaml
+- Human Computer Interaction (HCI)  - Java
 
 😄 **What 'languages' I enjoy the most:**
 
 - Java
-- C
-- SQL
-- HTML / CSS
 
 🔥 I enjoy playing games, reading books, making friends, and coding!
+
+- 📫 How to reach me:
+ 
+ EMAIL: guilhermeteixeira@ubi.pt
 
 
 <!--
