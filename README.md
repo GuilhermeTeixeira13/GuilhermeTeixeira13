@@ -15,10 +15,11 @@
 - Calculus I
 - C Programming - C
 - Programming Labs - C
-- Computeer Tecnology - Assembly
+- Computeer Tecnology - Logical Circuits
 - Discrete Math
 - Computer Networks - Cisco Packet Tracer
-- Functional Programming - OCAML
+- Functional Programming - Ocaml
+- Computer Architecture - Assembly
 - Calculus II
 - Physics and Information
 - Probability & Statistics
