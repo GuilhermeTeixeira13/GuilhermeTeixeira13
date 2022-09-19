@@ -2,8 +2,8 @@
 
 📓 **Classes I'm taking:**
 
-- Theory of Computation
-- Artificial Intelligence
+- Theory of Computation - Ocaml
+- Artificial Intelligence - Python
 - Android Development
 - Computer Graphics
 - Software Enginnering
