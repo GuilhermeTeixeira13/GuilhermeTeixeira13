@@ -37,10 +37,7 @@
 
 🔥 I enjoy playing games, reading books, making friends, and coding!
 
-- 📫 How to reach me:
- 
- EMAIL: guilhermeteixeira@ubi.pt
-
+📫 How to reach me: guilhermeteixeira@ubi.pt
 
 <!--
 **GuilhermeTeixeira13/GuilhermeTeixeira13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
