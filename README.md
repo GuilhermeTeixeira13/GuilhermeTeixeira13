@@ -34,7 +34,8 @@
 
 😄 **What 'languages' I enjoy the most:**
 
-- Java (JavaFX, SQL)
+- Java 
+- Python
 
 🔥 I enjoy playing games, reading books, making friends, and coding!
 
