@@ -1,17 +1,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=GuilhermeTeixeira13.GuilhermeTeixeira13)
 [![Github](https://img.shields.io/github/followers/GuilhermeTeixeira13?label=Follow&style=social)](https://github.com/GuilhermeTeixeira13)
 
-### Hey! I´m Guilherme - a student at University of Beira Interior (Covilhã, Portugal) - Studying Computer Science and Engineering
-
-📓 **Classes I'm taking:**
-
-- Theory of Computation - Ocaml
-- Artificial Intelligence - Python
-- Android Development
-- Computer Graphics
-- Software Enginnering
-
-
+<!---
 ⚡ **Classes taken (In University):**
 
 - Linear Algebra
@@ -34,10 +24,17 @@
 - Algorithms and Data Structures - C
 - Computacional logic - Ocaml
 - Human Computer Interaction (HCI)  - Java
+-->
 
-🔥 I enjoy playing games, reading books, making friends, and coding!
+## 🎓 I'm a student of Computer Science and Engineering at University of Beira Interior (Covilhã, Portugal)
 
-📫 How to reach me: guilhermeteixeira@ubi.pt
+📓 **Classes I'm taking:**
+
+- Theory of Computation - Ocaml
+- Artificial Intelligence - Python
+- Android Development - Java
+- Computer Graphics - C++ / OpenGL
+- Software Enginnering
 
 ## :email: Find me on:
 
