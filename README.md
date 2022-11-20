@@ -1,3 +1,5 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=GuilhermeTeixeira13.GuilhermeTeixeira13)
+
 ### Hey! I´m Guilherme - a student at University of Beira Interior (Covilhã, Portugal) - Studying Computer Science and Engineering
 
 📓 **Classes I'm taking:**
