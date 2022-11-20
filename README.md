@@ -35,11 +35,6 @@
 - Computacional logic - Ocaml
 - Human Computer Interaction (HCI)  - Java
 
-😄 **What 'languages' I enjoy the most:**
-
-- Java 
-- Python
-
 🔥 I enjoy playing games, reading books, making friends, and coding!
 
 📫 How to reach me: guilhermeteixeira@ubi.pt
