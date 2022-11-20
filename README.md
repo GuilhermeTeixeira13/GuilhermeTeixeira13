@@ -1,4 +1,5 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=GuilhermeTeixeira13.GuilhermeTeixeira13)
+[![Github](https://img.shields.io/github/followers/GuilhermeTeixeira13?label=Follow&style=social)](https://github.com/GuilhermeTeixeira13)
 
 ### Hey! I´m Guilherme - a student at University of Beira Interior (Covilhã, Portugal) - Studying Computer Science and Engineering
 
