@@ -67,5 +67,7 @@
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeTeixeira13"/>
-  
+
+<!--- 
 ![snake gif](https://github.com/GuilhermeTeixeira13/GuilhermeTeixeira13/blob/output/github-contribution-grid-snake.gif)
+-->
