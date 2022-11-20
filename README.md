@@ -54,10 +54,10 @@
 ## :trophy: My Github Stats:
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=GuilhermeTeixeira13&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=GuilhermeTeixeira13&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=GuilhermeTeixeira13&theme=dark">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=GuilhermeTeixeira13&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTeixeira13&theme=tokyonight&hide=TeX,HTML,PHP,CSS,JavaScript&layout=compact">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTeixeira13&theme=tokyonight&hide=TeX,HTML,PHP,CSS,JavaScript&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTeixeira13&theme=dark&hide=TeX,HTML,PHP,CSS,JavaScript&layout=compact">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTeixeira13&theme=dark&hide=TeX,HTML,PHP,CSS,JavaScript&layout=compact" />
 </a>
 </div>
