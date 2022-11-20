@@ -49,6 +49,7 @@
 
 <p align="center">
  <a href="mailto:guilherme.teixeira@ubi.pt"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+ <br />
  <a href="mailto:guilherme.teixeira@ubi.pt" style="vertical-align:top; margin:4px">guilherme.teixeira@ubi.pt</a> 
 </p>
 
