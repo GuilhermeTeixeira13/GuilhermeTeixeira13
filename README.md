@@ -2,6 +2,7 @@
 [![Github](https://img.shields.io/github/followers/GuilhermeTeixeira13?label=Follow&style=social)](https://github.com/GuilhermeTeixeira13)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeTeixeira13&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTeixeira13&theme=tokyonight)
 
 ### Hey! I´m Guilherme - a student at University of Beira Interior (Covilhã, Portugal) - Studying Computer Science and Engineering
 
