@@ -56,3 +56,5 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTeixeira13&theme=dark&hide=TeX,HTML,PHP,CSS,JavaScript&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTeixeira13&theme=dark&hide=TeX,HTML,PHP,CSS,JavaScript&layout=compact" />
 </a>
+  
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
