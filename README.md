@@ -50,8 +50,6 @@
  <a href="mailto:guilherme.teixeira@ubi.pt" style="vertical-align:top; margin:4px">guilherme.teixeira@ubi.pt</a> 
 </p>
 
-<br />
-
 ## 🧰 Languages and Tools:
 
 <p align="center">
