@@ -53,7 +53,6 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeTeixeira13"/>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTeixeira13&theme=dark&hide=TeX,HTML,PHP,CSS,JavaScript&layout=compact">
-  <p align="center">
+<a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTeixeira13&theme=dark&hide=TeX,HTML,PHP,CSS,JavaScript&layout=compact">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTeixeira13&theme=dark&hide=TeX,HTML,PHP,CSS,JavaScript&layout=compact" />
 </a>
