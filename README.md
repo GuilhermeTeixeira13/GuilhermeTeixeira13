@@ -30,11 +30,11 @@
 
 📓 **Classes I'm taking:**
 
-- Theory of Computation - Ocaml
-- Artificial Intelligence - Python
-- Android Development - Java
-- Computer Graphics - C++ / OpenGL
-- Software Enginnering
+- Cybersecurity
+- Technological Entrepreneurship
+- Distributed systems - Java
+- Network Systems Administration
+- Project
 
 ## :email: Find me on:
 
