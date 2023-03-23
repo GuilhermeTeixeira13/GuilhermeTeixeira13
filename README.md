@@ -27,11 +27,11 @@
 
 📓 **Classes I'm taking:**
 
-- Cybersecurity
+- Cybersecurity - C
 - Technological Entrepreneurship
 - Distributed systems - Java
-- Network Systems Administration
-- Project
+- Network Systems Administration _ Shell
+- Project - Javascript / HTML / CSS
 
 ## :email: Find me on:
 
