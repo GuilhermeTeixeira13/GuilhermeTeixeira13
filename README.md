@@ -47,6 +47,12 @@
  <a href="mailto:guilherme.teixeira@ubi.pt" style="vertical-align:top; margin:4px">guilherme.teixeira@ubi.pt</a> 
 </p>
 
+<p align="center">
+ <a href="https://www.linkedin.com/in/guilhermeteixeira13/"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a> 
+ <br />
+ <a href="[https://www.linkedin.com/in/yourprofileurl](https://www.linkedin.com/in/guilhermeteixeira13/)" style="vertical-align:top; margin:4px">LinkedIn Profile</a> 
+</p>
+
 ## 🧰 Languages and Tools:
 
 <p align="center">
