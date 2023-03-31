@@ -55,7 +55,7 @@
 </p>
 <br />
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTeixeira13&theme=dark&hide=TeX,HTML,PHP,CSS,JavaScript&layout=compact">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTeixeira13&theme=dark&hide=TeX,HTML,PHP,CSS&layout=compact">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTeixeira13&theme=dark&hide=TeX,HTML,PHP,CSS&layout=compact" />
   </a>
 </p>
