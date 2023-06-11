@@ -30,7 +30,7 @@
 - Cybersecurity - C
 - Technological Entrepreneurship
 - Distributed systems - Java
-- Network Systems Administration _ Shell
+- Network Systems Administration - Shell / Cisco
 - Project - Javascript / HTML / CSS
 
 ## :email: Find me on:
