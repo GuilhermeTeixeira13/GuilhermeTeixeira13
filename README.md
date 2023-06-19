@@ -50,7 +50,7 @@
 <p align="center">
  <a href="https://www.linkedin.com/in/guilhermeteixeira13/"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a> 
  <br />
- <a href="https://www.linkedin.com/in/guilhermeteixeira13/" style="vertical-align:top; margin:4px">LinkedIn Profile</a> 
+ <a href="https://www.linkedin.com/in/guilhermeteixeira13/" style="vertical-align:top; margin:4px">My LinkedIn Profile</a> 
 </p>
 
 ## 🧰 Technologies I've worked with:
