@@ -53,7 +53,7 @@
  <a href="https://www.linkedin.com/in/guilhermeteixeira13/" style="vertical-align:top; margin:4px">LinkedIn Profile</a> 
 </p>
 
-## 🧰 Languages and tools that I have learned:
+## 🧰 Technologies I've worked with:
 
 <p align="center">
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
