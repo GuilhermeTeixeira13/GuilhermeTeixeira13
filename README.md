@@ -31,7 +31,7 @@
 - Technological Entrepreneurship
 - Distributed systems - Java
 - Network Systems Administration - Shell / Cisco
-- Project - Javascript / HTML / CSS
+- Project - NodeJS / Javascript / HTML / CSS
 
 ## :email: Find me on:
 
