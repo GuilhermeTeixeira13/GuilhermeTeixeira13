@@ -23,16 +23,6 @@
 - Human Computer Interaction (HCI)  - Java
 -->
 
-## 🎓 I'm a student of Computer Science and Engineering at University of Beira Interior (Covilhã, Portugal)
-
-📓 **Classes I'm taking:**
-
-- Cybersecurity - C
-- Technological Entrepreneurship
-- Distributed systems - Java
-- Network Systems Administration - Shell / Cisco
-- Project - NodeJS / Javascript / HTML / CSS
-
 ## :email: Find me on:
 
 <!--
