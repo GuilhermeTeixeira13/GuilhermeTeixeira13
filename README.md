@@ -61,11 +61,6 @@
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />       
 </p>
 <br />
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTeixeira13&theme=dark&hide=TeX,PHP,HTML,C%2B%2B&layout=compact">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTeixeira13&theme=dark&hide=TeX,PHP,HTML,C%2B%2B&layout=compact" />
-  </a>
-</p>
 
 ## :trophy: My Github Stats:
 
